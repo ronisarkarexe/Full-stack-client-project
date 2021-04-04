@@ -1,0 +1,10 @@
+.check-out{
+   box-shadow: 5px 5px 10px rgba(219, 218, 218, 0.7);
+   border-radius:14px;
+}
+h4{
+   margin-top:90px;
+   margin-bottom: 30px;
+   font-weight: bold;
+   font-size:30px;
+}

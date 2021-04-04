@@ -1,0 +1,33 @@
+.image-card{
+   margin-top: 20px;
+   width:220px;
+   height:240px;
+   margin-left: 53px;
+}
+h5{
+   text-align: center;
+   margin-top: 15px;
+   margin-bottom:25px;
+}
+.home-card{
+   margin-top:40px;
+   width:330px;
+   height:380px;
+   margin-left: 10px;
+   border-radius:10px;
+   box-shadow: 5px 5px 10px rgb(207, 205, 205);
+}
+.product-price{
+   display:flex;
+   margin-left:20px
+}
+.product-price Button{
+   margin-left: 100px;
+   height:42px;
+   width: 120px;
+}
+.product-price h4{
+   font-weight: bold;
+   font-size:30px;
+   margin-top: -1px;
+}

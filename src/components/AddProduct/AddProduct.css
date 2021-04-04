@@ -1,0 +1,43 @@
+.manage-product{
+   background-color: white;
+   margin-top:20px;
+   border-radius:14px;
+   border-top-right-radius: 14px;
+}
+.check-out{
+   box-shadow: 5px 5px 10px rgba(219, 218, 218, 0.7);
+}
+.back-color{
+   background-color: rgb(238, 255, 250);
+}
+th, th{
+   border: none;
+}
+thead{
+   background-color:rgb(233, 232, 232);
+}
+.addProductButton{
+   height:500px;
+   background-color: rgb(27, 22, 63);
+}
+.addProductButto, button{
+   margin-top: 15px;
+   margin-left: 37px;
+   width:180px;
+   height:36px;
+   color:rgb(123, 116, 146);
+   background-color:rgb(27, 22, 63);
+   border: none;
+   font-weight: bold;
+   font-size:15px;
+}
+.input-from{
+   margin-top:20px;
+}
+input {
+   margin-top:20px;
+   height:36px;
+   width: 220px;
+   border: none;
+   background-color:lightgray;
+}
