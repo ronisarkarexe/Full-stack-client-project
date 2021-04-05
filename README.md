@@ -1,6 +1,6 @@
-# Fresh Valley
+# DRAGON COSMETIC SHOP
 
-Design and develop this simple project is to get Fresh Velly status of any city of any country.
+Design and develop this simple project is to get DRAGON COSMETIC SHOP status of any city of any country.
 This project is about an demo testing of firebase auth, Node.js, MongoDB, cloud database integration. My Api practice Project
 
 ## Technology: Firebase auth, Node.js, MongoDB, Cloud database integration.
